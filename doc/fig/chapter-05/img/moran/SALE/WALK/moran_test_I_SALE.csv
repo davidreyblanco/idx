@@ -1,0 +1,4 @@
+autocorrelation;p_value;statistic
+GLobal;0.001;0.6500565443859988
+OLS location attributes;0.001;0.3653290694212402
+Ranger location attributes;0.0175;0.02461372933898698
